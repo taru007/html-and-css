@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+.c{
+    position: fixed;
+    left: 1200px;
+    bottom: 50px;
+    font-size: 50px;
+}
