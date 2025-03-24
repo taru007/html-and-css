@@ -1,0 +1,19 @@
+button:hover{
+    background-color: aquamarine;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 20px;
+}
+h1:hover{
+    color: tomato;
+}
+.parent1 h2:last-child{
+    background-color: blueviolet;
+}
+.parent2 h2:first-child{
+    background-color: brown;
+}
+.parent3 h2:nth-child(even){
+    background-color: chocolate;
+}
