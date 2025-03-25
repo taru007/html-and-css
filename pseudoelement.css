@@ -1,0 +1,18 @@
+.para::first-letter{
+    font-size: 60px;
+    color: red;
+}
+.para::first-line{
+    font-weight: bold;
+}
+.name::after{
+    content: " Kaurav";
+    color: blueviolet;
+}
+.name::before{
+    content: "Miss  ";
+    color: brown;
+}
+input::placeholder{
+    color: blue;
+}
