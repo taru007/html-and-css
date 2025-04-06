@@ -1,0 +1,32 @@
+.houseicon{
+    color: brown;
+    font-size: 50px;
+    background-color: bisque;
+    padding: 30px;
+    
+}
+.fbicon{
+    color: blue;
+    font-size: 50px;
+    padding: 30px;
+}
+.whatsappicon{
+    color: green;
+    font-size: 50px;
+    padding: 30px;
+}
+.instaicon{
+    color: pink;
+    font-size: 50px;
+    padding: 30px;
+}
+.snapicon{
+    color: yellow;
+    font-size: 50px;
+    padding: 30px;
+}
+.gicon{
+    color: blue;
+    font-size: 50px;
+    padding: 30px;
+}

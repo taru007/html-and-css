@@ -1,0 +1,45 @@
+.tour{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+}
+.tour1{
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    font-style: bold;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
+button{
+    text-align: right;
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 40px;
+    font-style: bold;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+}
+.tour2{
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.tour3{
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+}

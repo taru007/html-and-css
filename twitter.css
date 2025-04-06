@@ -1,0 +1,44 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.box1{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    padding-bottom: 20px;
+}
+.a{
+    image-resolution: 10px;
+    text-align: center;
+}
+.b{
+    font-size: 10px;
+    word-spacing: 10px;
+    text-align: center;
+    font-style: bold;
+    color: black;
+}
+.c{
+    text-align: center;
+    color: black;
+}
+button{
+    color: white;
+    background-color: black;
+    padding: 10px 100px;
+    border-radius: 30px;
+}
+.box2{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    padding-bottom: 20px;
+}
+.box3{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,19 @@
+.main{
+    text-shadow: -3px -4px 5px red;
+}
+.container{
+    background-color: aqua;
+    /*padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;*/
+    padding: 30px;
+    border-left: 10px solid blue;
+}
+.container1{
+    background-color: yellowgreen;
+    padding: 30px;
+    margin-top: 20px;
+    border: 10px double blue;
+    border-radius: 20px;
+}

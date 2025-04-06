@@ -1,0 +1,16 @@
+.heading{
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style:wavy ;
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    /*word-spacing: 50px;
+    letter-spacing: 20px;*/
+    line-height: 40px;
+    font-weight: bold;
+}

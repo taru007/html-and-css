@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ch1{
+    
+}
+.ch2{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 100px;
+    padding-bottom: 500px;
+}
+button{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-color : black;
+}
+.button{
+    padding-top: 200px;
+}

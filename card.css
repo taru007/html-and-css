@@ -1,0 +1,27 @@
+.wrapper{
+    display: flex;
+    background-image: url(gradient.jpg);
+    background-repeat: no-repeat;
+
+}
+.ch1{
+    padding: 10px;
+}
+h2{
+    margin-left: 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+}
+button{
+    background-color: url(gradient.jpg);
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    margin-top: 30px;
+    margin-left: 50px;
+}
