@@ -9,3 +9,15 @@
     height: 300px;
     border: 1px solid red;
 }
+@media screen and (min-width:400px) and (max-width: 750px) {
+    .main{
+        display: grid;
+        grid-template-columns: repeat(5,300px);
+    }
+}
+@media screen and (max-width:399px) {
+    .main{
+        display: grid;
+        grid-template-columns: repeat(1,300px);
+    }
+}
